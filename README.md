@@ -1,3 +1,3 @@
 # data_structures_python
 
-  Data Structures in Python 
+  Basic Data Structures in Python 
